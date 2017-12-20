@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/mBuscaMenColeta"
+        android:icon="@drawable/ifsp_envia_cad" android:title="Receber Coleta"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mModoCadProduto"
+        android:icon="@drawable/ifsp_envia_cad" android:title="Modo Cadastro de Produtos"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mModoCadColeta"
+        android:icon="@drawable/ifsp_envia_cad" android:title="Modo Coleta de Preços"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mAtulalizaListaProd"
+        android:icon="@drawable/ifsp_refresh" android:title="Atualizar lista de produtos"
+        app:showAsAction="always"/>
+
+</menu>

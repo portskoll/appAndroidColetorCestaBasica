@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Coletor de Preços</string>
+    <string name="verifica_user">Verifica Coletor</string>
+    <string name="cadastra_produto">Cadastrar novo Produto</string>
+    <string name="atualiza_coleta">Atualizar Coleta</string>
+    <string name="statusfoto">Tire a foto do produto e centralize-o na tela. </string>
+    <string name="TiraFoto">Bater Foto</string>
+    <string name="Delete">Detete iten(s)</string>
+    <string name="ListaColeta">Ir para Lista</string>
+    <string name="EnviarListaColeta">Enviar Coleta</string>
+    <string name="qrCode">Digite codigo de barras \n ou click no botão para ler o codigo de barras do produto.</string>
+    <string name="transition_key">qualquer_coisa_aqui</string>
+    <string name="linear_layout">Linear</string>
+    <string name="grid_layout">Grid</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-5867782454224108/1641900505</string>-->
+
+
+</resources>

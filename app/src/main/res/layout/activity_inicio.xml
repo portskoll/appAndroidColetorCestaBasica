@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_inicio"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="mundotela.net.coletapreco.view.Inicio"
+    android:orientation="vertical">
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/btncesta"
+        android:id="@+id/btn_coleta"
+        android:background="@null"
+        android:elevation="0dp"
+        android:onClick="coleta"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp" />
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/btnpesquisa"
+        android:id="@+id/btn_pesqusa"
+        android:layout_marginBottom="20dp"
+        android:onClick="pesquisa"
+        android:background="@null" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ifsp_logo"
+        android:id="@+id/imageView5"
+        android:layout_gravity="bottom|center_horizontal"
+        android:padding="30dp" />
+</LinearLayout>

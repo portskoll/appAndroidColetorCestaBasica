@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/mTirafoto"
+        android:icon="@drawable/ifsp_tira_foto" android:title="Bater Foto"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mEnviarCad"
+        android:icon="@drawable/ifsp_envia_cad" android:title="Enviar Cadastro"
+        app:showAsAction="never"/>
+
+    <!--<item android:id="@+id/mNovoCad"
+        android:icon="@drawable/ifsp_novo_cad" android:title="Novo Cadastro"
+        app:showAsAction="always"/>-->
+
+    <item android:id="@+id/mListaCad"
+        android:icon="@drawable/ifsp_lista" android:title="Lista de Produtos Cadastrados"
+        app:showAsAction="never"/>
+
+
+    <!--<item android:id="@+id/mTipoMarca1"
+        android:icon="@drawable/ifsp_logo" android:title="Frango - Resfriado Inteiro (kg)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca1_a"
+        android:icon="@drawable/ifsp_logo" android:title="Frango - Filé de Peito (kg)"
+        app:showAsAction="never"/>
+
+
+    <item android:id="@+id/mTipoMarca1_b"
+        android:icon="@drawable/ifsp_logo" android:title="Frango - Coxa (kg)"
+        app:showAsAction="never"/>
+
+
+    <item android:id="@+id/mTipoMarca2"
+        android:icon="@drawable/ifsp_logo" android:title="Suíno - Linguiça Fresca - Tipo Toscana (kg)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca2_a"
+        android:icon="@drawable/ifsp_logo" android:title="Suíno - Pernil sem osso (kg)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca2_b"
+        android:icon="@drawable/ifsp_logo" android:title="Suíno - Bisteca (kg)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca3"
+        android:icon="@drawable/ifsp_logo" android:title="Salsicha Avulsa (kg)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca4"
+        android:icon="@drawable/ifsp_logo" android:title="Queijo Muçarela Fatiado (kg)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca5"
+        android:icon="@drawable/ifsp_logo" android:title="Arroz (pacote 5 kg)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca6"
+        android:icon="@drawable/ifsp_logo" android:title="Feijão Carioquinha (pacote 1 kg)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca7"
+        android:icon="@drawable/ifsp_logo" android:title="Açúcar Refinado (pacote 1 kg)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca8"
+        android:icon="@drawable/ifsp_logo" android:title="Far. de Mandioca Torrada (pacote 500g)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca9"
+        android:icon="@drawable/ifsp_logo" android:title="Farinha de Trigo (pacote 1 kg)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca10"
+        android:icon="@drawable/ifsp_logo" android:title="Extrato de Tomate (embalagem 340-350g)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca11"
+        android:icon="@drawable/ifsp_logo" android:title="Macarrão c/ Ovos (pacote 500g)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca12"
+        android:icon="@drawable/ifsp_logo" android:title="Óleo de Soja (900 ml)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca13"
+        android:icon="@drawable/ifsp_logo" android:title="Biscoito Maisena (pacote 200g)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca14"
+        android:icon="@drawable/ifsp_logo" android:title="Café em Pó Papel Laminado (pacote 500g)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca15"
+        android:icon="@drawable/ifsp_logo" android:title="Leite l"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca16"
+        android:icon="@drawable/ifsp_logo" android:title="Leite em Pó Integral (embalagem 400-500g)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca17"
+        android:icon="@drawable/ifsp_logo" android:title="Margarina (pote 250g)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca18"
+        android:icon="@drawable/ifsp_logo" android:title="Absorvente Aderente (pacotes 8 unidades)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca19"
+        android:icon="@drawable/ifsp_logo" android:title="Creme Dental (tubo 90g)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca20"
+        android:icon="@drawable/ifsp_logo" android:title="Desodorante Spray (embalagem 90-100 ml)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca21"
+        android:icon="@drawable/ifsp_logo" android:title="Papel Higiênico Fino Branco (pacote 4 un.)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca22"
+        android:icon="@drawable/ifsp_logo" android:title="Sabonete (unid. 90-100g)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca23"
+        android:icon="@drawable/ifsp_logo" android:title="Água Sanitária Cândida (l)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca24"
+        android:icon="@drawable/ifsp_logo" android:title="Detergente Líquido (embalagem 500 ml)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca25"
+        android:icon="@drawable/ifsp_logo" android:title="Sabão em Barra (unidade)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca26"
+        android:icon="@drawable/ifsp_logo" android:title="Sabão em Pó (pacote 1kg)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/mTipoMarca27"
+        android:icon="@drawable/ifsp_logo" android:title="Ovos"
+        app:showAsAction="never"/>
+-->
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/mbate_foto"
+        android:icon="@drawable/baterfoto" android:title="@string/TiraFoto"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/menvia_foto"
+        android:icon="@drawable/envia_foto" android:title="@string/TiraFoto"
+        app:showAsAction="always"/>
+
+</menu>
